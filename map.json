@@ -910,7 +910,7 @@
         {
          "columns":59,
          "firstgid":321,
-         "image":"muellergasse-master\/muellergasse-master\/Room_Builder_32x32.png",
+         "image":"/Room_Builder_32x32.png",
          "imageheight":1952,
          "imagewidth":1888,
          "margin":0,
@@ -923,7 +923,7 @@
         {
          "columns":16,
          "firstgid":3920,
-         "image":"muellergasse-master\/muellergasse-master\/Interiors_32x32.png",
+         "image":"/Interiors_32x32.png",
          "imageheight":19968,
          "imagewidth":512,
          "margin":0,
