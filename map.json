@@ -32545,26 +32545,7 @@
          "tilewidth":32,
          "transparentcolor":"#a79796"
         }, 
-        {
-         "columns":33,
-         "firstgid":10371,
-         "grid":
-            {
-             "height":64,
-             "orientation":"orthogonal",
-             "width":64
-            },
-         "image":"height64_trees_mega_pack_cc_by_3_0.png",
-         "imageheight":1088,
-         "imagewidth":1087,
-         "margin":0,
-         "name":"outdoor3",
-         "spacing":0,
-         "tilecount":1122,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#a79796"
-        }],
+        ],
  "tilewidth":32,
  "type":"map",
  "version":1.5,
