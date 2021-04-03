@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/https:\/\/www.youtube.com\/embed\/o-p5o57zrXA"
+                 "value":"https:\/\/www.youtube.com\/embed\/o-p5o57zrXA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -32544,8 +32544,7 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#a79796"
-        }, 
-        ],
+        }],
  "tilewidth":32,
  "type":"map",
  "version":1.5,
